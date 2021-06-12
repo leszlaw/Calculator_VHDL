@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Admin/Desktop/pliki/pwr/VI/ucisw2/Calculator/circuit_circuit_sch_tb_isim_beh.exe" -prj "C:/Users/Admin/Desktop/pliki/pwr/VI/ucisw2/Calculator/circuit_circuit_sch_tb_beh.prj" "work.circuit_circuit_sch_tb" "work.glbl" 

@@ -1,0 +1,5 @@
+MODULE circuit
+	SUBMODULE calculator
+		INSTANCE XLXI_1
+	SUBMODULE ps2_kbd
+		INSTANCE XLXI_2
